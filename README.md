@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @sangyeon08
-- 🌱 I’m currently learning java
-<!---
-sangyeon08/sangyeon08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<script src="https://gist.github.com/sloweyyy/b7fbfe27b4d84828aac88adbba7df9f0.js"></script>
