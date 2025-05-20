@@ -1,12 +1,12 @@
-<h1 align="center">👋 Welcome to Sangyeon's GitHub!</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ADD8E6,30:B2DFEE,60:AFEEEE,100:E0FFFF&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70" alt="header" />
 </p>
 
 ## 🛠 What I've used
 
 ### 📌 Languages & Platforms
 <p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python 3-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
