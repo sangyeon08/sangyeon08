@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ADD8E6,30:B2DFEE,60:AFEEEE,100:E0FFFF&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70" alt="header" />
 </p>
 
 ## 🛠 What I've used
 
 ### 📌 Languages & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python 3-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-79B8F3?style=flat&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-F5B5B5?style=flat&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python 3-7EC8E3?style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-6ECEDA?style=flat&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFF89A?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FFD580?style=flat&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-8FD9C0?style=flat&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-D1D8FF?style=flat&logo=windows&logoColor=black"/>
 </p>
 
 ### ⚙️ Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-D8C1F2?style=flat&logo=eclipse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-AEDFF7?style=flat&logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual Studio-E9C7FF?style=flat&logo=visualstudio&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyCharm-F7B8C8?style=flat&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-FFF1CC?style=flat&logo=notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-FFDFE2?style=flat&logo=figma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-ECECEC?style=flat&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Slack-BDE7C5?style=flat&logo=slack&logoColor=black"/>
 </p>
 
 ---
