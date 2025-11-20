@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70" alt="header" />
 </p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/sangyeon08?pet-id=642212583922701813"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangyeon08&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sangyeon08"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## 🛠 What I've used
