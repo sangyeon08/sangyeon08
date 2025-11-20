@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70" alt="header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,14,15,18,19,26,28&height=200&section=header&text=Welcome%20to%20Sangyeon's%20GitHub!&fontSize=40&fontAlignY=35&descAlignY=60&descAlign=70"
+    alt="header"
+  />
 </p>
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangyeon08&utm_content=farm">
 <img
