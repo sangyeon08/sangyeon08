@@ -4,8 +4,6 @@
     alt="header"
   />
 </p>
-
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sangyeon08&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/sangyeon08"
