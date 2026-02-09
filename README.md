@@ -12,7 +12,7 @@
 />
 </a>
 
-## 🛠 What I've used
+##  What I've used
 
 ###  Languages & Platforms
 <p align="left">
