@@ -14,7 +14,7 @@
 
 ## What I've used
 
-### Languages & Platforms
+###  Languages & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/C-79B8F3?style=flat&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-F5B5B5?style=flat&logo=openjdk&logoColor=black"/>
