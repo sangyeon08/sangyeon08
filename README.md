@@ -17,9 +17,15 @@
 
 ### Tech Stacks & Tools
 
+### Tech Stacks & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,ts,py,nodejs,js,java,cs,react,mysql,postgres,supabase,mongodb,docker,aws,git,github,vscode,idea,notion,slack,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=spring,ts,py,nodejs,js,java,cs,react,mysql,postgres,supabase,mongodb,docker,aws,git,github,vscode,idea,notion&perline=11" align="center" />
+  </a>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="49" style="vertical-align: top; margin-left: -4px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" align="center" />
   </a>
 </p>
 
