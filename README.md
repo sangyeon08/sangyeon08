@@ -15,28 +15,12 @@
 
 ## What I've used
 
-### Languages & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/C-79B8F3?style=flat&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-F5B5B5?style=flat&logo=openjdk&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python 3-7EC8E3?style=flat&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-6ECEDA?style=flat&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFF89A?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-FFD580?style=flat&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-8FD9C0?style=flat&logo=mysql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-D1D8FF?style=flat&logo=windows&logoColor=black"/>
-</p>
+### Tech Stacks & Tools
 
-### Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Eclipse-D8C1F2?style=flat&logo=eclipse&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-AEDFF7?style=flat&logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Visual Studio-E9C7FF?style=flat&logo=visualstudio&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyCharm-F7B8C8?style=flat&logo=pycharm&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Notion-FFF1CC?style=flat&logo=notion&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-FFDFE2?style=flat&logo=figma&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-ECECEC?style=flat&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Slack-BDE7C5?style=flat&logo=slack&logoColor=black"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,ts,py,nodejs,js,java,cs,react,mysql,postgres,supabase,mongodb,docker,aws,git,github,vscode,idea,notion,slack,figma&perline=11" />
+  </a>
 </p>
 
 ---
