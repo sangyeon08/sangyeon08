@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<details>
+<summary><b>🛠️ Tech Stack</b></summary>
+<br />
+
 ## Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,c,cs" />
@@ -26,3 +30,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,figma" />
 </p>
+
+</details>
