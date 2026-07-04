@@ -2,8 +2,8 @@
 
 `#경험` `#배움` `#성장` `#소통`
 
-* 작은 경험 속에서도 배움을 발견하며 쌓아가는 것을 즐깁니다.
-* 그 경험들을 통해 소통하며 함께 성장하는 법을 배워가고 있습니다.
+작은 경험 속에서도 배움을 발견하며 쌓아가는 것을 즐깁니다.
+그 경험들을 통해 소통하며 함께 성장하는 법을 배워가고 있습니다.
 
 ---
 
@@ -13,25 +13,17 @@
   </a>
 </p>
 
-## 🛠 Tech Stack
-
-### Languages & Frameworks
+## Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,c,cs" />
 </p>
 
-<hr>
-
-### Database & Cloud
+## Database & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,aws" />
 </p>
 
-<hr>
-
-### Tools
+## Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,figma" />
 </p>
-
-<hr style="border: none; border-top: 1px solid #d0d7de;">
