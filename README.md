@@ -15,20 +15,19 @@
 
 ## 🛠 Tech Stack
 
-### Framework
+### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,c,cs" />
 </p>
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,c,cs" />
-</p>
+---
 
 ### Database & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,aws" />
 </p>
+
+---
 
 ### Tools
 <p align="left">
