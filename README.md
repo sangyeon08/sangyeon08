@@ -33,3 +33,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,figma" />
 </p>
+
+<hr style="border: none; border-top: 1px solid #d0d7de;">
