@@ -16,12 +16,12 @@
 
 ## Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,c,cs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,c,cs" />
 </p>
 
 ## Database & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,firebase,aws,docker" />
 </p>
 
 ## Tools
