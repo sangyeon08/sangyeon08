@@ -14,7 +14,7 @@
   <summary><b>🛠️ Tech Stack</b></summary>
   <br />
 
-  ## Languages & Tech Stack
+  ## Development
   <p align="left">
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,ts,js,c,cs,html,css" />
   </p>
