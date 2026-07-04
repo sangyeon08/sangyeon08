@@ -11,22 +11,21 @@
 </p>
 
 <details>
-<summary><b>🛠️ Tech Stack</b></summary>
-<br />
+  <summary><b>🛠️ Tech Stack</b></summary>
+  <br />
 
-## Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,c,cs" />
-</p>
+  ## Languages & Tech Stack
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,ts,js,c,cs,html,css" />
+  </p>
 
-## Database & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,aws,docker" />
-</p>
+  ## Database & Cloud
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,docker,postman" />
+  </p>
 
-## Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,figma" />
-</p>
-
+  ## Tools
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,githubactions,notion,figma" />
+  </p>
 </details>
