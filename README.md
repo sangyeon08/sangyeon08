@@ -20,14 +20,14 @@
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,c,cs" />
 </p>
 
----
+<hr>
 
 ### Database & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,aws" />
 </p>
 
----
+<hr>
 
 ### Tools
 <p align="left">
