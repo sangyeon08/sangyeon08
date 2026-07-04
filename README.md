@@ -13,32 +13,24 @@
   </a>
 </p>
 
-## What I've used
+## 🛠 Tech Stack
 
-### Tech Stacks & Tools
-
-### Tech Stacks & Tools
-
+### Framework
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,ts,py,nodejs,js,java,cs,react,mysql,postgres,supabase,mongodb,docker,aws,git,github,vscode,idea,notion&perline=11" align="center" />
-  </a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="49" style="vertical-align: top; margin-left: -4px;" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" align="center" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangyeon08&show_icons=true&theme=radical" alt="GitHub Stats" />
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,c,cs" />
 </p>
 
-## Most Used Languages
+### Database & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,aws" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangyeon08&layout=compact&theme=radical" alt="Top Languages" />
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,figma" />
 </p>
