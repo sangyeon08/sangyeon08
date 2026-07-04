@@ -21,7 +21,7 @@
 
   ## Database & Cloud
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,ubuntu,docker" />
   </p>
 
   ## Tools
