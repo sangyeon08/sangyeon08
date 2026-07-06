@@ -19,13 +19,13 @@
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,ts,js,c,cs,html,css" />
   </p>
 
-  ##  Database & Cloud
+  ## Database & Cloud
   <p align="left">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,ubuntu,docker" />
   </p>
 
   ## Tools
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,githubactions,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,githubactions,notion,figma" />
   </p>
 </details>
