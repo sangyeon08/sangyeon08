@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,ts,js,c,cs,html,css" />
   </p>
 
-  ##  Database & Cloud
+  ## Database & Cloud
   <p align="left">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,ubuntu,docker" />
   </p>
