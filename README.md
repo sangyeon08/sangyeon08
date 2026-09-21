@@ -16,16 +16,16 @@
 
   ## Development
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,ts,js,c,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,vue,py,ts,js,c,cs,html,css" />
   </p>
 
   ##  Database & Cloud
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,ubuntu,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,cloudflare,aws,ubuntu,docker,azure,gitlab" />
   </p>
 
   ## Tools
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,githubactions,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,androidstudio,githubactions,notion,figma" />
   </p>
 </details>
