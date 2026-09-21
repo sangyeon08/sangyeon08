@@ -26,6 +26,6 @@
 
   ## Tools
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,androidstudio,githubactions,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,visualstudio,vscode,idea,androidstudio,githubactions,notion,figma" />
   </p>
 </details>
