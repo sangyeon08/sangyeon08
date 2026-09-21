@@ -16,7 +16,7 @@
 
   ## Development
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,vue,py,ts,js,c,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,vue,py,dotnet,ts,js,c,cs,html,css" />
   </p>
 
   ##  Database & Cloud
